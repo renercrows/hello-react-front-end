@@ -127,7 +127,7 @@ Clone this repository to your desired folder:
 
 ```sh
   git clone git@github.com:renercrows/hello-react-front-end.git
-  cd Budget-App
+  cd hello-react-front-end
 ```
 
 
