@@ -126,7 +126,7 @@ Clone this repository to your desired folder:
 
 
 ```sh
-  git clone git@github.com:renercrows/hello-rails-react.git
+  git clone git@github.com:renercrows/hello-react-front-end.git
   cd Budget-App
 ```
 
@@ -147,8 +147,6 @@ To run the pruect:
 To check linters locally, use:
 
 ```
-rubocop
-
 npx stylelint "**/*.{css,scss}"
 
 ```
@@ -181,7 +179,7 @@ To run the project, execute the following command:
 
 <!-- REACT PROJECT -->
 
-- Link of react frontend project: https://github.com/renercrows/hello-react-front-end/tree/setup
+- Link of react frontend project: https://github.com/renercrows/hello-rails-back-end/tree/setup
 
 <!-- AUTHORS -->
 
