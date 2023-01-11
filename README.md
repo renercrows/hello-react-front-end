@@ -107,9 +107,8 @@ To get a local copy up and running, follow these steps.
 In order to work on this project, you need to have the following dependencies installed:
 
 <ul>
-  <li><a href="https://www.ruby-lang.org/en/">Webpack</a></li>  
-  <li><a href="https://nodejs.org/en/">Node.js</a></li>
-  <li><a href="https://rubyonrails.org/">React</a></li>
+  <li>Webpack</li>  
+  <li>React</li>
 </ul>
 
 <!--
